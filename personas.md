@@ -1,5 +1,5 @@
 # Personas en el salón:
+* Ángeles
+* Brenda
 * Gabriela
-* X
-* Y
-* Z
+* Tonantzin
