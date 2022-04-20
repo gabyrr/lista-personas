@@ -1,7 +1,7 @@
 # Lista de correos electrónicos
-* Brenda: brendaguilaar@gmail.com
-* Tonantzin: 2143029469@alumnos.cua.uam.mx
-* Ángeles: angeleslopezf10@gmail.com
+* Brenda: ---
+* Tonantzin: ----
+* Ángeles: ---
 
 ## Breve descripción de cada persona
 * Gabriela Ramírez es profesora en la UAM-C
